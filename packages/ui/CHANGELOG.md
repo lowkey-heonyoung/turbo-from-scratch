@@ -1,5 +1,12 @@
 # @repo/ui
 
+## 1.0.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @repo/hooks@0.0.3
+
 ## 1.0.2
 
 ### Patch Changes

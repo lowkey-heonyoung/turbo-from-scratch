@@ -1,5 +1,11 @@
 # @repo/hooks
 
+## 0.0.3
+
+### Patch Changes
+
+- install `tsup`
+
 ## 0.0.2
 
 ### Patch Changes
