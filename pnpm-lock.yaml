@@ -229,6 +229,9 @@ importers:
 
   packages/ui:
     dependencies:
+      '@repo/hooks':
+        specifier: workspace:*
+        version: link:../hooks
       react:
         specifier: ^19.0.0
         version: 19.0.0
